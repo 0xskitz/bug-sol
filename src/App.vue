@@ -1,15 +1,25 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <!-- <RunningMaurice /> -->
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <MauriceComponent />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MauriceComponent from './components/MauriceComponent.vue'
+import RunningMaurice from './components/RunningMaurice.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    RunningMaurice,
+    MauriceComponent
   }
 }
 </script>
