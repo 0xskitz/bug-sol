@@ -4,11 +4,20 @@
   <RunningMaurice />
   <RunningMaurice />
   <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
+  <RunningMaurice />
   <MauriceComponent />
-  <RunningMaurice />
-  <RunningMaurice />
-  <RunningMaurice />
-  <RunningMaurice />
 </template>
 
 <script>
